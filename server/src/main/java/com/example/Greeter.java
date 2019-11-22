@@ -6,7 +6,7 @@ package com.example;
 /**
  * This is a class.
  */
-abstract class Greeter {
+public class Greeter {
     /**
      * This is a constructor.
      */
