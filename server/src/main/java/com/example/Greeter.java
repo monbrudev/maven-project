@@ -10,7 +10,7 @@ public class Greeter {
     /**
      * This is a constructor.
      */
-    public final Greeter() {
+    protected Greeter() {
     }
 
     /** {@inheritDoc} **/
