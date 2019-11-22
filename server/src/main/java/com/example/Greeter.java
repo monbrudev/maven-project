@@ -8,17 +8,18 @@ package com.example;
  */
 public class Greeter {
 
-  /**
-   * This is a constructor.
-   */
-  public Greeter() {
+	/**
+	 * This is a constructor.
+	 */
+	public Greeter() {
 
-  }
-/** {@inheritDoc} **/
-  public String greet(final String someone) {
-    /**
-    * This is a Javadoc required comment
-    */	  
-    return String.format("Hello, %s!", someone);
-  }
+	}
+
+	/** {@inheritDoc} **/
+	public String greet(final String someone) {
+		/**
+		 * This is a Javadoc required comment
+		 */
+		return String.format("Hello, %s!", someone);
+	}
 }
