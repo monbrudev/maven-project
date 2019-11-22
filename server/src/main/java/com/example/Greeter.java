@@ -14,7 +14,7 @@ public class Greeter {
     }
 
     /** {@inheritDoc} **/
-    public String greet(final String someone) {
+    public final String greet(final String someone) {
         /**
          * This is a Javadoc required comment
          */
