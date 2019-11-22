@@ -1,5 +1,5 @@
 package com.example;
-
+import package-info
 /**
  * This is a class.
  */
