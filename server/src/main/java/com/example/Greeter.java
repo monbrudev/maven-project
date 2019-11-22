@@ -6,11 +6,11 @@ package com.example;
 /**
  * This is a class.
  */
-public class Greeter {
+public abstract class Greeter {
     /**
      * This is a constructor.
      */
-    protected Greeter() {
+    public Greeter() {
     }
 
     /** {@inheritDoc} **/
