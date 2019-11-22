@@ -1,5 +1,8 @@
+/**
+* Info about this package doing something for package-info.java file.
+*/
 package com.example;
-import package-info
+
 /**
  * This is a class.
  */
